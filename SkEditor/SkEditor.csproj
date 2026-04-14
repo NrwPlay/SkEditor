@@ -73,7 +73,7 @@
         <PackageReference Include="DiscordRichPresence" Version="1.3.0.28" />
         <PackageReference Include="FluentIcons.Avalonia.Fluent" Version="1.1.303" />
         <PackageReference Include="Newtonsoft.Json" Version="13.0.3"/>
-        <PackageReference Include="NuGet.Protocol" Version="6.14.0" />
+        <PackageReference Include="NuGet.Protocol" Version="6.14.3" />
         <PackageReference Include="Octokit" Version="14.0.0"/>
         <PackageReference Include="Serilog.Sinks.File" Version="7.0.0"/>
         <PackageReference Include="SkAvaloniaEdit" Version="11.3.1"/>
